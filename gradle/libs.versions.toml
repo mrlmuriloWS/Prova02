@@ -13,6 +13,7 @@ activity = "1.8.0"
 constraintlayout = "2.1.4"
 retrofit = "2.11.0"
 
+
 [libraries]
 androidx-biometric = { module = "androidx.biometric:biometric", version.ref = "biometric" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
